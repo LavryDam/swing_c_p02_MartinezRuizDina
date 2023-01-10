@@ -1,5 +1,5 @@
 # Titulo proyecto
-*swing_c_p02_MartinezRuizDina__*
+*swing_c_p02_MartinezRuizDina*
 
 ***
 
